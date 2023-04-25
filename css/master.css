@@ -79,7 +79,7 @@ body {
 .heading img {
     margin: 50px 0;
 }
-@media (max-width:767px){
+@media (max-width:991px){
     .heading img {  
         width:150px;
     }
@@ -92,7 +92,7 @@ body {
 .page-content .left-side img {
     width: 100%;
 }
-@media (max-width:767px){
+@media (max-width:991px){
     .page-content {
         flex-direction: column;
         text-align: center;
@@ -134,7 +134,7 @@ body {
     color: white;
     background-color: var(--Soft-Magenta);
 }
-@media (max-width:767px){
+@media (max-width:991px){
     .page-content .right-side h2 {
         font-size: 30px;
     }
@@ -163,7 +163,7 @@ body {
     border-color: var(--Soft-Magenta);
     color: var(--Soft-Magenta);
 }
-@media (max-width:767px){
+@media (max-width:991px){
     .footer{
         justify-content: center;
         padding: 20px 0;
